@@ -1,0 +1,14 @@
+C:\Users\ksole\Documents\GrandCircus\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksole\Documents\GrandCircus\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.AssemblyInfoInputs.cache
+C:\Users\ksole\Documents\GrandCircus\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.AssemblyInfo.cs
+C:\Users\ksole\Documents\GrandCircus\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.csproj.CoreCompileInputs.cache
+C:\Users\ksole\Documents\GrandCircus\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.exe
+C:\Users\ksole\Documents\GrandCircus\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.deps.json
+C:\Users\ksole\Documents\GrandCircus\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.runtimeconfig.json
+C:\Users\ksole\Documents\GrandCircus\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.dll
+C:\Users\ksole\Documents\GrandCircus\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.pdb
+C:\Users\ksole\Documents\GrandCircus\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.dll
+C:\Users\ksole\Documents\GrandCircus\StudentDatabaseLab\obj\Debug\net6.0\refint\StudentDatabaseLab.dll
+C:\Users\ksole\Documents\GrandCircus\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.pdb
+C:\Users\ksole\Documents\GrandCircus\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.genruntimeconfig.cache
+C:\Users\ksole\Documents\GrandCircus\StudentDatabaseLab\obj\Debug\net6.0\ref\StudentDatabaseLab.dll
